@@ -1,5 +1,7 @@
 # undergraduate-thesis 
 ## Title: Position and attitude control of ROV based on dynamic positioning system
+Paper pdf file:(This paper has been published in Danlian University of Technology,China)  
+
 ### Abstract
 
 ROV (Remote Operated Vehicle) as one of the exploitation equipment in offshore area, plays a very important role in the development of exploitation procedure. In the movement process, the uncertain factors such as sea undercurrent, reefs will greatly influent ROV, and in the operation process, ROV will also be affected by the water resistance, mechanical arm reaction and so on. To ensure the stability and effectiveness of the ROV in operation process, is the key to the research, which also puts forward the requirement of the ROV dynamic positioning.
@@ -8,4 +10,4 @@ Based on the engineering research of ROV, the paper firstly chooses a proper coo
 
 Finally, in this paper, three different kinds of structure of the ROV are modeled by Simulink function of MATLAB simulation calculation, and the paper adds artificial interference of steady and unsteady flow as well as man-made desired position disturbance, thus verifies the feasibility of the ROV dynamic positioning with three different distribution of the propeller, and compares the simulation results and performance analysis.
 
-##### Key words: dynamic positioning; position and attitude control; Simulink simulation; dynamic modeling; PID controller 
+##### Key words: dynamic positioning; position and attitude control; Simulink simulation; dynamic modeling; PID controll
