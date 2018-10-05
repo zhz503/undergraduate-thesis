@@ -1,7 +1,7 @@
 # undergraduate-thesis 
 ## Title: Position and attitude control of ROV based on dynamic positioning system
 Paper pdf file:(This paper has been published in Danlian University of Technology,China)  
-
+https://github.com/zhz503/undergraduate-thesis/blob/master/graduate%20thesis%EF%BC%88final%EF%BC%89.pdf
 ### Abstract
 
 ROV (Remote Operated Vehicle) as one of the exploitation equipment in offshore area, plays a very important role in the development of exploitation procedure. In the movement process, the uncertain factors such as sea undercurrent, reefs will greatly influent ROV, and in the operation process, ROV will also be affected by the water resistance, mechanical arm reaction and so on. To ensure the stability and effectiveness of the ROV in operation process, is the key to the research, which also puts forward the requirement of the ROV dynamic positioning.
